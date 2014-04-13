@@ -4,7 +4,7 @@
 #  YouTubeFeed.py - A module to get new videos from a user's subscriptions  
 # 
 #
-#  Copyright 2013 Elad Cohen <eladco@gmail.com>
+# Author Elad Cohen <eladco@gmail.com>
 ##########################################
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
