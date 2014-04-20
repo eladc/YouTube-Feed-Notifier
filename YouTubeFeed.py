@@ -25,9 +25,11 @@ from time import gmtime, strftime
 
 class YouTubeFeed:
   def __init__(self, username):
-    self.resp = requests.get('https://gdata.youtube.com/feeds/api/users/%s/newsubscriptionvideos?v=2&alt=jsonc' % username)
+    self.username = username
 
   def getFeed(self):
+    ## get a subscription feed from YT:
+    self.resp = requests.get('https://gdata.youtube.com/feeds/api/users/%s/newsubscriptionvideos?v=2&alt=jsonc' % self.username) 
     if(self.resp.status_code == 200):
       data = loads(self.resp.content)
       return data
