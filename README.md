@@ -1,5 +1,8 @@
 YouTube-Feed-Notifier
 =====================
 
-STILL IN THE WORKS..
-YT subscriptions feed notifier.
+YT subscriptions feed notifier will pop-up notifications about new videos from YouTubers you are subscribed to.
+
+Usage:
+=====
+main.py <userename>
