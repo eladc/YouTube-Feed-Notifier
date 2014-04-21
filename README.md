@@ -1,8 +1,9 @@
 YouTube-Feed-Notifier
 =====================
 
-YT subscriptions feed notifier will pop-up notifications about new videos from YouTubers you are subscribed to.
+Pop-up notifications about new videos from YouTubers you are subscribed to.
+YTFN is set to check for new videos every 15 minutes.
 
 Usage:
-=====
-main.py <userename>
+-------
+    main.py username
