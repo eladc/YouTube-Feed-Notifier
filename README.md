@@ -1,5 +1,8 @@
-YouTube-Feed-Notifier
-=====================
+**DISCONTINUED PROJECT as YT moved to API v3.**
+
+
+YouTube-Feed-Notifier (API v2)
+==============================
 
 Pop-up notifications about new videos from YouTubers you are subscribed to.
 
