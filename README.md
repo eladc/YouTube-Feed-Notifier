@@ -1,4 +1,6 @@
-**DISCONTINUED PROJECT as YT moved to API v3.**
+**DISCONTINUED PROJECT** as YT moved to API v3 and there are no plans by Google to implement retrieving all the new subscription videos in the V3 API service.
+
+https://code.google.com/p/gdata-issues/issues/detail?id=3946#c128
 
 
 YouTube-Feed-Notifier (API v2)
